@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full-stack web developement**
 
-- 👨‍💻 All of my projects are available at [https://gardimy.github.io/Mobile-first/](https://gardimy.github.io/Mobile-first/)
+- 👨‍💻 All of my projects are available at [https://github.com/Gardimy](https://github.com/Gardimy)
 
 - 💬 Ask me about **html , css,react, JavaScript, Ruby,Redux and more..**
 
