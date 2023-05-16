@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Dream Binary**
 
-- 🌱 I’m currently learning **Full-stack web developement**
+- 🌱 I’m currently learning **Full-stack web developement at microverse**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gardimy](https://github.com/Gardimy)
 
