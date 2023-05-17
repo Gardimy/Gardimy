@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gardimy&label=Profile%20views&color=0e75b6&style=flat" alt="gardimy" /> </p>
 
-- 🔭 I’m currently working on **Dream Binary**
+- 🔭  I’m currently looking for new opportunities
 
 - 🌱 I’m currently learning **Full-stack web developement at microverse**
 
