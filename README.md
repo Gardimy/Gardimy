@@ -1,8 +1,8 @@
 <div align ="center">
 <h1 align="center">Hi 👋, I'm Gardimy Charles!</h1>
-<h3 align="center">A passionate Full-stack developer from Haiti</h3>
+<h3 align="center">A passionate Full-stack developer💻😎</h3>
 
-<img align="center" alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
   </div>
 
