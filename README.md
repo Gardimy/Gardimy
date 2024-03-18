@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gardimy&label=Profile%20views&color=0e75b6&style=flat" alt="gardimy" /> </p>
 
-- 🔭  I’m currently looking for new opportunities
+- 🔭  I’m currently looking for Jobs and new opportunities
 
-- 🌱 I’m currently learning **Full-stack web developement at microverse**
+- 🌱 I'm a seasoned full-stack software developer who has completed a comprehensive remote software development program at Microverse.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gardimy](https://github.com/Gardimy)
 
-- 💬 Ask me about **html , css,react, JavaScript, Ruby,Redux and more..**
+- 💬 Ask me about **html , css,react, JavaScript, Ruby,Redux, ruby on rails , SQL, c++ , oracle, and more..**
 
 - 📫 How to reach me **gardimycharles889@gmail.com**
 
