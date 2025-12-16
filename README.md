@@ -1,6 +1,6 @@
 <div align ="center">
 <h1 align="center">Hi 👋, I'm Gardimy Charles!</h1>
-<h3 align="center">A passionate Full-stack developer💻😎</h3>
+<h3 align="center">A passionate Full-stack developer💻😎And Electronic engeneer</h3>
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
