@@ -6,8 +6,6 @@
 <br>
   </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gardimy&label=Profile%20views&color=0e75b6&style=flat" alt="gardimy" /> </p>
-
 - 🔭  I’m currently looking for Jobs and new opportunities
 
 - 🌱 I'm a seasoned full-stack software developer who has completed a comprehensive remote software development program at Microverse.
